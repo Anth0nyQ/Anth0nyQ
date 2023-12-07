@@ -4,8 +4,6 @@
 I'm a fresh Computer Science Graduate from Wayne State University looking to carve my own path into the Tech Industry. I enjoy doing my own side projects whether it is related to speeding up repetitive processes at the workplace, or personal projects that let me experiment with new technologies and learn from it to implement it more efficiently in future projects.
 </p>
 
----
-
 <h2 align="center"> Languages and Tools Currently Used </h2>
 
 <p align="center">
